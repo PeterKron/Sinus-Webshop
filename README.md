@@ -1,6 +1,8 @@
 # sinus-webshop
 ```
-Co-authored-by: Michaela Sporny <MichaelaSporny1@users.noreply.github.com>, Daniel Persson <DanielPersson93@users.noreply.github.com>, Celina Eftihidis <Celinaki@users.noreply.github.com>
+Co-authored-by: Michaela Sporny <MichaelaSporny1@users.noreply.github.com>, 
+Daniel Persson <DanielPersson93@users.noreply.github.com>, 
+Celina Eftihidis <Celinaki@users.noreply.github.com>
 
 ```
 ## Project setup
